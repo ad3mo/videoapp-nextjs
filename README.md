@@ -6,7 +6,7 @@ Front end of a video sharing application with basic routes and login/register pa
 
 ## Demo
 
-
+[![SRhrQ.gif](https://s5.gifyu.com/images/SRhrQ.gif)](https://gifyu.com/image/SRhrQ)
 
 ## Requirements
 
